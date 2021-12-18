@@ -1,0 +1,81 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "PresentBlockLootTable",
+      "type": "loottable",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "present_block_loot_table"
+    },
+    {
+      "name": "KURISUMASU",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kurisumasu"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "christmas_music_0",
+      "files": [
+        "a_cruel_angels_thesis___eurobeat_remix"
+      ],
+      "category": "neutral",
+      "subtitle": "A Cruel Angel\u0027s Thesis"
+    },
+    {
+      "name": "christmas_music_1",
+      "files": [
+        "all_i_want_for_christmas_is_you___eurobeat_remix"
+      ],
+      "category": "neutral",
+      "subtitle": "All I Want For Christmas Is You | Dorifto Remix"
+    },
+    {
+      "name": "christmas_music_2",
+      "files": [
+        "niko_-_night_of_fire_christmas_mix"
+      ],
+      "category": "neutral",
+      "subtitle": "Night Of Fire | Christmas Mix"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabkurisumasu": "KURISUMASU",
+      "subtitles.christmas_music_0": "A Cruel Angel\u0027s Thesis",
+      "subtitles.christmas_music_1": "All I Want For Christmas Is You | Dorifto Remix",
+      "subtitles.christmas_music_2": "Night Of Fire | Christmas Mix"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "kurisumasu",
+    "modName": "KURISUMASU",
+    "version": "1.0.0",
+    "author": "$EUV000-U8I5CPSSUH7I, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.kurisumasu",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

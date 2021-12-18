@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_3",
+        "1": "red_2",
+        "2": "red_1"
+      },
+      "name": "default"
+    }
+  }
+}

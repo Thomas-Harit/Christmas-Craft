@@ -1,0 +1,32 @@
+{
+  "christmas_music_0": {
+    "category": "neutral",
+    "subtitle": "subtitles.christmas_music_0",
+    "sounds": [
+      {
+        "name": "kurisumasu:a_cruel_angels_thesis___eurobeat_remix",
+        "stream": false
+      }
+    ]
+  },
+  "christmas_music_1": {
+    "category": "neutral",
+    "subtitle": "subtitles.christmas_music_1",
+    "sounds": [
+      {
+        "name": "kurisumasu:all_i_want_for_christmas_is_you___eurobeat_remix",
+        "stream": false
+      }
+    ]
+  },
+  "christmas_music_2": {
+    "category": "neutral",
+    "subtitle": "subtitles.christmas_music_2",
+    "sounds": [
+      {
+        "name": "kurisumasu:niko_-_night_of_fire_christmas_mix",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SnowAxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_axe"
+    },
+    {
+      "name": "SnowPickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_pickaxe"
+    },
+    {
+      "name": "SnowShovel",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_shovel"
+    },
+    {
+      "name": "SnowHoe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_hoe"
+    },
+    {
+      "name": "PresentBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "present_block"
+    },
+    {
+      "name": "PresentBlockLootTable",
+      "type": "loottable",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "present_block_loot_table"
+    },
+    {
+      "name": "KURISUMASU",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kurisumasu"
+    },
+    {
+      "name": "PresentBlockRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "present_block_recipe"
+    },
+    {
+      "name": "SnowAxeRecipeR",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_axe_recipe_r"
+    },
+    {
+      "name": "SnowPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_pickaxe_recipe"
+    },
+    {
+      "name": "SnowShovelRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_shovel_recipe"
+    },
+    {
+      "name": "SnowHoeRecipeL",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_hoe_recipe_l"
+    },
+    {
+      "name": "SnowHoeRecipeR",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_hoe_recipe_r"
+    },
+    {
+      "name": "SnowAxeReciceL",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_axe_recice_l"
+    },
+    {
+      "name": "SnowSwordRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_sword_recipe"
+    },
+    {
+      "name": "NorthPole",
+      "type": "biome",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "north_pole"
+    },
+    {
+      "name": "Christmas",
+      "type": "dimension",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "christmas",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "SnowSpeed",
+      "type": "enchantment",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_speed"
+    },
+    {
+      "name": "SwissRoll",
+      "type": "food",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swiss_roll"
+    },
+    {
+      "name": "GingerBread",
+      "type": "food",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ginger_bread"
+    },
+    {
+      "name": "MilkBottle",
+      "type": "food",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milk_bottle"
+    },
+    {
+      "name": "Pudding",
+      "type": "food",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pudding"
+    },
+    {
+      "name": "Guirlande",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guirlande"
+    },
+    {
+      "name": "Santagelion",
+      "type": "musicdisc",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "santagelion"
+    },
+    {
+      "name": "Santavu",
+      "type": "musicdisc",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "santavu"
+    },
+    {
+      "name": "Santanight",
+      "type": "musicdisc",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "santanight"
+    },
+    {
+      "name": "Santa",
+      "type": "armor",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "santa",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Elf",
+      "type": "armor",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elf",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "christmas_music_0",
+      "files": [
+        "a_cruel_angels_thesis___eurobeat_remix"
+      ],
+      "category": "neutral",
+      "subtitle": "A Cruel Angel\u0027s Thesis"
+    },
+    {
+      "name": "christmas_music_1",
+      "files": [
+        "all_i_want_for_christmas_is_you___eurobeat_remix"
+      ],
+      "category": "neutral",
+      "subtitle": "All I Want For Christmas Is You | Dorifto Remix"
+    },
+    {
+      "name": "christmas_music_2",
+      "files": [
+        "niko_-_night_of_fire_christmas_mix"
+      ],
+      "category": "neutral",
+      "subtitle": "Night Of Fire | Christmas Mix"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.kurisumasu.snow_axe": "Snow Axe",
+      "item.kurisumasu.snow_pickaxe": "Snow Pickaxe",
+      "block.kurisumasu.guirlande": "Guirlande",
+      "item.kurisumasu.santavu": "Santavu",
+      "item.kurisumasu.santa_chestplate": "Santa Body",
+      "itemGroup.tabkurisumasu": "KURISUMASU",
+      "enchantment.kurisumasu.snow_speed": "Snow Speed",
+      "item.kurisumasu.snow_shovel": "Snow Shovel",
+      "item.kurisumasu.santagelion.desc": "A Cruel Santa\u0027s Thesis",
+      "block.kurisumasu.present_block": "Present Block",
+      "item.kurisumasu.santanight": "Santanight",
+      "item.kurisumasu.milk_bottle": "Milk Bottle",
+      "item.kurisumasu.elf_leggings": "Elf Leggings",
+      "item.kurisumasu.santa_leggings": "Santa Leggings",
+      "item.kurisumasu.ginger_bread": "Ginger Bread",
+      "item.kurisumasu.elf_boots": "Elf Boots",
+      "item.kurisumasu.swiss_roll": "Swiss Roll",
+      "item.kurisumasu.santavu.desc": "Santa vu",
+      "biome.kurisumasu.north_pole": "North Pole",
+      "item.kurisumasu.elf_chestplate": "Elf Body",
+      "item.kurisumasu.santa_boots": "Santa Boots",
+      "subtitles.christmas_music_0": "A Cruel Angel\u0027s Thesis",
+      "item.kurisumasu.snow_hoe": "Snow Hoe",
+      "subtitles.christmas_music_1": "All I Want For Christmas Is You | Dorifto Remix",
+      "item.kurisumasu.santanight.desc": "Night of Santa",
+      "item.kurisumasu.santa_helmet": "Santa Helmet",
+      "item.kurisumasu.elf_helmet": "Elf Helmet",
+      "item.kurisumasu.christmas": "Ice And Snow",
+      "subtitles.christmas_music_2": "Night Of Fire | Christmas Mix",
+      "item.kurisumasu.pudding": "Pudding",
+      "item.kurisumasu.santagelion": "Santagelion"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "kurisumasu",
+    "modName": "KURISUMASU",
+    "version": "1.0.0",
+    "author": "$EUV000-U8I5CPSSUH7I, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.kurisumasu",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
